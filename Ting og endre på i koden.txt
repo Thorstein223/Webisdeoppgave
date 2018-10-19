@@ -1,1 +1,2 @@
 Endre position under blur til fixed
+Kanskje prøv og fjerne bildekilden nederst hvis det ikke fungerer
